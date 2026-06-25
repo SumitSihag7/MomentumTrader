@@ -1,4 +1,4 @@
-# MomentumTrader 📈
+# MomentumTrader 
 
 **MomentumTrader** is an algorithmic backtesting engine built in Python to evaluate trend-following and momentum trading strategies across major equities.
 
